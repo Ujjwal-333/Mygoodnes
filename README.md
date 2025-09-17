@@ -1,18 +1,18 @@
 # Mygoodnes
-This is my first Git Repository
+<h1>This is my first Git Repository</h1>
 <br>
-Author: Ujjwal pandey
+<b>Author: Ujjwal pandey</b>
 <br>
-<h1>🔹 Steps to Create a New GitHub Repository via CMD </h1>
+<h2>🔹 Steps to Create a New GitHub Repository via CMD </h2>
 <h2>
   <p>
     1. Open CMD (Windows) / Terminal (Linux/Mac)
   </p>
 </h2>
-<p>
+<pre>
   mkdir myproject       # Create new folder (name: myproject)
   cd myproject          # Go inside the folder
-</p>
+</pre>
 <br>
 <h2>
   <p>
@@ -56,7 +56,7 @@ Author: Ujjwal pandey
   <b>git add .
 </b>
   <pre>👉 Adds all files to staging (ready to commit).
-       (You can also use git add filename for one file.)</pre>
+   (You can also use git add filename for one file.)</pre>
 </p>
 <br>
 <h2>
@@ -77,8 +77,8 @@ Author: Ujjwal pandey
 </h2>
 <p>
   <b>Go to GitHub → click New Repository → give it a name → Create Repository.</b>
-  <p>Copy the HTTPS or SSH link:</p>
-  <a href = https://github.com/Ujjwal-333/Myfirstrepo.git alt="myrepo" /a>
+  <p>Copy the HTTPS or SSH link:<a href = "https://github.com/Ujjwal-333/Myfirstrepo.git"> GitHublink </a></p>
+  
 </p>
 <br>
 <br>
