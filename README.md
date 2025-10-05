@@ -137,4 +137,19 @@ git push -u origin main	             Upload files to GitHub
     </h4>
 <br>
 
+<p>
+  https://grok.com/
+https://gamma.app/
+https://www.napkin.ai/
+https://chromewebstore.google.com/detail/merlin-ask-ai-to-research/camppjleccjaphfdbohjdohecfnoikec?hl=en
+https://notebooklm.google.com/
+https://libgen.ac/
+https://chatgpt.com/
+https://claude.ai/
+https://julius.ai/
+https://chatgpt.com/g/g-67b866a648a88191b29e8274026994fd-be10x-ats-resume-generator
+https://www.genspark.ai/
+
+
+</p>
 
